@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461203548230",
+    "project_id": "treeko-48014",
+    "storage_bucket": "treeko-48014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461203548230:android:a354b19f1cbc8127a7c247",
+        "android_client_info": {
+          "package_name": "com.errorxperts.treeko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461203548230-9bkk3u560u3hru6n7h6otscv686mi099.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.errorxperts.treeko",
+            "certificate_hash": "77b8044ae31f8dacb141acf16a7927c6d7bb1c02"
+          }
+        },
+        {
+          "client_id": "461203548230-atj14jvq4dea050ij03o2kurto3crsnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-pdOj-PLQbJ6vrGPWEALjpvthILA2Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461203548230-atj14jvq4dea050ij03o2kurto3crsnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
